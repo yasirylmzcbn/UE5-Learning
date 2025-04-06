@@ -1,0 +1,9 @@
+Intermediate
+Saved
+*.env
+*.user
+*.aps
+*.log
+*.sln
+*.vcxproj
+.vcxproj.filters
